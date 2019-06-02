@@ -1,14 +1,22 @@
 # Twitch Downloader
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Download - https://github.com/ssubedir/Twitch-Downloader/releases
-
 Twitch Downloader is a console based application that allows you to download twitch videos. 
 
-# Supports
- - Twitch Videos
- - Past Twitch Brodcasts 
+ [![N|Solid](https://i.imgur.com/j9H3ttX.png)](https://github.com/ssubedir/Twitch-Downloader/releases)
 
+Download - https://github.com/ssubedir/Twitch-Downloader/releases
+
+
+# Features
+ - Create mp4 Videos using FFMPEG
+ - Support for the new TwitchVOD System
+ - Supports Past Brodcasts 
+
+# Upcoming Features
+ - Twitch Clips
+    
+    
 
 ### NuGet Package Dependency
 
