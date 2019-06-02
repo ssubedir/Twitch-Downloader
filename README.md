@@ -5,9 +5,6 @@ Download - https://github.com/ssubedir/Twitch-Downloader/releases
 
 Twitch Downloader is a console based application that allows you to download twitch videos. 
 
-[![N|Solid](https://i.imgur.com/rbm2aLy.png)](https://nodesource.com/products/nsolid)
-
-
 # Supports
  - Twitch Videos
  - Past Twitch Brodcasts 
