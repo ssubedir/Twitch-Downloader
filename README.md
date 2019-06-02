@@ -2,7 +2,7 @@
 
 #### Twitch Downloader is a console based application that allows you to download twitch videos. 
 
- [![N|Solid](https://i.imgur.com/j9H3ttX.png)](https://github.com/ssubedir/Twitch-Downloader/releases)
+ [![N|Solid](https://i.imgur.com/KKMRmZz.png)](https://github.com/ssubedir/Twitch-Downloader/releases)
 
 Download - https://github.com/ssubedir/Twitch-Downloader/releases
 
