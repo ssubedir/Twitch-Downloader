@@ -1,7 +1,6 @@
 # Twitch Downloader
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Twitch Downloader is a console based application that allows you to download twitch videos. 
+#### Twitch Downloader is a console based application that allows you to download twitch videos. 
 
  [![N|Solid](https://i.imgur.com/j9H3ttX.png)](https://github.com/ssubedir/Twitch-Downloader/releases)
 
