@@ -9,7 +9,7 @@ Download - https://github.com/ssubedir/Twitch-Downloader/releases
 
 # Features
  - Create mp4 Videos using FFMPEG
- - Support for the new TwitchVOD System
+ - Supports TwitchVOD System
  - Supports Past Brodcasts 
 
 # Upcoming Features
